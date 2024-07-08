@@ -1,20 +1,16 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-#站点名称(显示在标题中)
-# Name of your site (displayed in the header)
+#描述/签名
 name: "Yan ziJun's blog"
-#简短的个人简介或描述(显示在标题中)
-# Short bio or description (displayed in the header)
 description: "阎子君 | study"
 
-# 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
+# 博客logo图片URL，建议尺寸不超过300px × 300px
+avatar: https://yan-zijun.github.io/images/zijun.jpg
+# favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://yan-zijun.github.io/images/zijun.ico
 
-# Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
-# and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
-# it from the list(Delete '- name: ' and 'url: ', too!)
+# 网站域名
+url: https://yan-zijun.github.io/
+
+# 菜单中的按钮
 navigation:
   - name: 首页
     url: /
@@ -25,38 +21,36 @@ navigation:
   - name: 标签
     url: /tags
 
-# Pagination
+# 每页的文章数
 paginate: 8
-
+# 文章简介的区分标记
 excerpt_separator: <!-- more -->
 
-# Includes an icon in the footer for each username you enter
+# 社交网络链接
 footer-links:
-  #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<username>
-  dribbble:
-  zhihu:
-  email: 
-  facebook:
-  flickr:
+  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  behance: # https://www.behance.net/<>
+  dribbble: # https://dribbble.com/<>
+  email: #youremailaddress@mail.com
+  facebook: #https://www.facebook.com/<>
+  flickr: #https://www.flickr.com/<>
   github: Yan-ziJun
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  instagram: #https://instagram.com/<>
+  linkedin: #https://www.linkedin.com/in/<>
+  pinterest: #https://www.pinterest.com/<>
+  rss: #随便填点啥RSS就能用了
+  stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  #twitter: frommidworld
-  youtube:
+  twitter: # https://www.twitter.com/<your_twitter_username> 
+  youtube: # channel/<your_long_string> or user/<user-name>
 
-# Text under the icons in footer
+# 站点页脚的文字
 footer-text: Copyright (c) 2024 yanzijun
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
+# 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
 disqus: # fromendworld
 
+#评论
 # Gitalk
 gitalk:
   clientID: Ov23liYzUswY3hGZwcr9
@@ -67,9 +61,7 @@ gitalk:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: G-KR4PBY7HKS
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://yan-zijun.github.io/
+
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -78,7 +70,7 @@ url: https://yan-zijun.github.io/
 # baseurl: 
 
 #
-# !! You don't need to change any of the configuration flags below !!
+# !! 以下所有设置都不需要更改 !!
 #
 
 permalink: /:title/

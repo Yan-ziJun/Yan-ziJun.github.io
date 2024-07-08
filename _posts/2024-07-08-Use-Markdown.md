@@ -12,6 +12,18 @@ comments: true
 
 **[Mrakdown完整文档](https://daringfireball.net/projects/markdown/syntax/"Mrakdown完整文档"),整理本文为了写博客时作为参考。**
 
+## 文章开头
+
+    ---
+    layout: post
+    title: 使用Markdown语法编写博客内容
+    date: 2024-07-08
+    Author: 阎子君
+    categories: Markdown
+    tags: [Github, Markdown]
+    comments: true
+    ---
+
 ## 标题
 
     #一级标题

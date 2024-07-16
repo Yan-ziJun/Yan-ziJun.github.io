@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于51单片机的循迹小车（未添加PID算法控制）
-date: 2024-11-03
+date: 2023-11-03
 Author: 阎子君
 categories: 51单片机
 tags: [51单片机, 实践项目]

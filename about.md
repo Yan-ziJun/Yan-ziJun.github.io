@@ -14,7 +14,19 @@ permalink: /about/
 
 **Здравствуйте, я Ян Цзыцзюнь. Я из Китая.**
 
-![中华人民共和国万岁](https://github.com/Yan-ziJun/Yan-ziJun.github.io/blob/master/images/China-Number-1.png)
+![China](https://github.com/Yan-ziJun/Yan-ziJun.github.io/blob/master/images/China-Number-1.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

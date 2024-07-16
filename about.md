@@ -17,6 +17,8 @@ permalink: /about/
 ![China](https://github.com/Yan-ziJun/Picture/raw/main/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%87%E5%B2%81.png)
 
 
+![China](https://github.com/Yan-ziJun/Picture/raw/5cf4e573fe29173ef9dc8ffc2f4a1169d9c2c2eb/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%87%E5%B2%81.png)
+
 
 
 

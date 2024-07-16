@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](https://github.com/Yan-ziJun/Yan-ziJun.github.io/blob/master/images/China/%E5%9B%BD%E6%97%97.png)
+![图片](https://github.com/Yan-ziJun/Yan-ziJun.github.io/blob/master/images/China/%E5%9B%BD%E6%97%97.png)
 
 **你好，我是阎子君。**
 

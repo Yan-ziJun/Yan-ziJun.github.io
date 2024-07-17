@@ -109,6 +109,8 @@ comments: true
 
     ![替代文字](图片url "图片说明")
 
+    <img src="/images/.../xxx.jpg(或png)"/>
+
 ## 转义字符
 
 如果需要使用以上标记字符而不被Markdown理解为格式标记，需要用\转义：例如\\，效果为\。

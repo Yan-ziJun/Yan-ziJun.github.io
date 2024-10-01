@@ -4,7 +4,7 @@ title: 庆祝中华人民共和国成立75周年
 date: 2024-10-01
 Author: 阎子君
 categories: China
-tags: [中华人民共和国，China, The people's Republic of China]
+tags: [中华人民共和国, The people's Republic of China]
 comments: true
 ---
 
